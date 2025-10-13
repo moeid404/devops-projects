@@ -186,4 +186,40 @@
 </tr>
 </table>
 
+---
 
+### 🛡️ <a href="https://github.com/moeid404/Capstone-End-to-End-CI-CD-DevSecOps-Pipeline">End-to-End CI/CD DevSecOps – Jenkins, SonarQube & Docker</a>
+<table>
+<tr>
+<td width="45%">
+  <!-- حط الصورة دي داخل repo العام تحت folders: diagrams/ -->
+  <img src="diagrams/6.Capstone-End-to-End-CI-CD-DevSecOps-Pipeline.png" width="100%" alt="DevSecOps CI/CD Pipeline Diagram" style="border-radius:10px;" />
+</td>
+<td width="55%" valign="top">
+  <strong>Description:</strong>
+  <p>
+    A complete local DevSecOps pipeline using Jenkins (webhook-triggered from GitHub): checkout → compile → unit tests → code quality (SonarQube) → dependency vulnerabilities (OWASP Dependency-Check) → package & Docker image build → push to Docker Hub → local container deployment. Demonstrates CI/CD best practices with security embedded by design.
+  </p>
+  <!-- Separator -->
+  <hr style="border:none; border-top:1px dotted #666; margin:10px 0; width:80%;">
+  <!-- Tools Used -->
+  <div style="margin-top:8px;">
+    <strong>Tools Used:</strong>
+    <div style="display:flex; flex-wrap:wrap; gap:6px; margin-top:6px;">
+      <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff">
+      <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=fff">
+      <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff">
+      <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
+      <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=fff">
+      <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=fff">
+      <img alt="OWASP Dependency-Check" src="https://img.shields.io/badge/OWASP%20Dependency--Check-000000?logo=owasp&logoColor=fff">
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+      <img alt="Docker Hub" src="https://img.shields.io/badge/Docker%20Hub-2496ED?logo=docker&logoColor=fff">
+    </div>
+  </div>
+</td>
+</tr>
+</table>
+
+---
