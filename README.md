@@ -6,6 +6,42 @@
 > 🌟 This is a single-hub that lists my DevOps demo projects.  
 ---
 
+### 🧱 <a href="https://github.com/moeid404/ansible-lamp">Full LEMP Stack WordPress Deployment with Containers & SSL</a>
+<table>
+<tr>
+<td width="45%">
+  <img src="diagrams/4.LEMP Stack WordPress Deployment with Containers and SSL.png" width="100%" alt="LEMP Stack Diagram" style="border-radius:10px;" />
+</td>
+<td width="55%" valign="top">
+  <strong>Description:</strong>
+  <p>
+    This project automates a production-ready LEMP stack for WordPress using Ansible and Docker. Nginx and PHP-FPM run as containers with mapped volumes, MariaDB runs natively on the host for performance, and Certbot integrates SSL to serve traffic over HTTPS. The playbooks provision the server, harden SSH, apply iptables firewall rules, and template Nginx/PHP-FPM configs for clean, repeatable deployments.
+  </p>
+
+  <!-- Separator -->
+  <hr style="border:none; border-top:1px dotted #666; margin:10px 0; width:80%;">
+
+  <!-- Tools Used -->
+  <div style="margin-top:8px;">
+    <strong>Tools Used:</strong>
+    <div style="display:flex; flex-wrap:wrap; gap:6px; margin-top:6px;">
+      <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=fff">
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+      <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=fff">
+      <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff">
+      <img alt="PHP-FPM" src="https://img.shields.io/badge/PHP--FPM-777BB4?logo=php&logoColor=fff">
+      <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff">
+      <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff">
+      <img alt="Certbot/Let’s Encrypt" src="https://img.shields.io/badge/Certbot%20%2F%20Let%E2%80%99s%20Encrypt-2C3E50?logo=letsencrypt&logoColor=fff">
+      <img alt="iptables" src="https://img.shields.io/badge/iptables-555555?logo=linux&logoColor=fff">
+      <img alt="SSL/HTTPS" src="https://img.shields.io/badge/SSL%2FHTTPS-555555?logo=letsencrypt&logoColor=fff">
+    </div>
+  </div>
+</td>
+</tr>
+</table>
+
+---
 
 
 ### 🌦️ <a href="https://github.com/moeid404/WeatherApp">K8s-based Microservices – Weather App</a>
@@ -112,42 +148,8 @@
 </tr>
 </table>
 
----
 
-### 🧱 <a href="https://github.com/moeid404/ansible-lamp">Full LEMP Stack WordPress Deployment with Containers & SSL</a>
-<table>
-<tr>
-<td width="45%">
-  <img src="diagrams/4.LEMP Stack WordPress Deployment with Containers and SSL.png" width="100%" alt="LEMP Stack Diagram" style="border-radius:10px;" />
-</td>
-<td width="55%" valign="top">
-  <strong>Description:</strong>
-  <p>
-    This project automates a production-ready LEMP stack for WordPress using Ansible and Docker. Nginx and PHP-FPM run as containers with mapped volumes, MariaDB runs natively on the host for performance, and Certbot integrates SSL to serve traffic over HTTPS. The playbooks provision the server, harden SSH, apply iptables firewall rules, and template Nginx/PHP-FPM configs for clean, repeatable deployments.
-  </p>
 
-  <!-- Separator -->
-  <hr style="border:none; border-top:1px dotted #666; margin:10px 0; width:80%;">
-
-  <!-- Tools Used -->
-  <div style="margin-top:8px;">
-    <strong>Tools Used:</strong>
-    <div style="display:flex; flex-wrap:wrap; gap:6px; margin-top:6px;">
-      <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=fff">
-      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
-      <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=fff">
-      <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff">
-      <img alt="PHP-FPM" src="https://img.shields.io/badge/PHP--FPM-777BB4?logo=php&logoColor=fff">
-      <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff">
-      <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff">
-      <img alt="Certbot/Let’s Encrypt" src="https://img.shields.io/badge/Certbot%20%2F%20Let%E2%80%99s%20Encrypt-2C3E50?logo=letsencrypt&logoColor=fff">
-      <img alt="iptables" src="https://img.shields.io/badge/iptables-555555?logo=linux&logoColor=fff">
-      <img alt="SSL/HTTPS" src="https://img.shields.io/badge/SSL%2FHTTPS-555555?logo=letsencrypt&logoColor=fff">
-    </div>
-  </div>
-</td>
-</tr>
-</table>
 
 ---
 
