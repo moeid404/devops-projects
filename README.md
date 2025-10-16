@@ -6,7 +6,7 @@
 > 🌟 This is a single-hub that lists my DevOps demo projects.  
 ---
 
-### 🧱 <a href="[https://github.com/moeid404/ansible-lamp](https://github.com/moeid404/wp-lemp-docker)">Full LEMP Stack WordPress Deployment with Containers & SSL</a>
+### 🧱 <a href="https://github.com/moeid404/wp-lemp-docker">Full LEMP Stack WordPress Deployment with Containers & SSL</a>
 <table>
 <tr>
 <td width="45%">
